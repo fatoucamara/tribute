@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: #eee;
+}
+img {
+    max-width: 100%;
+}
+
+
+#main {
+    width: 95%;
+    margin: 0 auto;
+    /* text-align: center; */
+}
+#tittle, #tittle-para{
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+
+}
+#img-div p{
+    padding: 1em;
+    text-align: center;
+}
+
+#tribute-info{
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+}
+
+#tribut-info-p blockquote{
+    width: 80%;
+    margin: 0 auto ;
+    text-align: center;
+    font-style:italic;
+}
+
+#tribut-info-inner-p{
+    font-weight: bold;
+    font-size: 1.2em;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
